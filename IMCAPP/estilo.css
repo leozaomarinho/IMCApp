@@ -1,0 +1,73 @@
+#interface{
+
+    border: 1px solid black;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    margin-top: 30px;
+
+}
+
+table tr td{
+
+    border-bottom: 1px solid lightblue;
+    padding-left: 20px;
+    width: 200px;
+    padding-top: 15px;
+
+}
+
+table{
+
+    padding: 1em;
+
+}
+
+.dados{
+
+    border: 1px solid lightblue;
+    width: 300px;
+    margin: auto;
+    background: lightblue;
+
+
+}
+
+button{
+
+    margin-top: 10px;
+    width: 150px;
+    height: 30px;
+    margin-left: 225px;
+    margin-right: 225px;
+    background: lightblue;
+    border: 1px solid black;
+    border-radius: 2px;
+    margin-bottom: 20px;
+
+}
+
+input{
+
+    border: 1px solid black;
+    height: 25px;
+    width: 90px;
+
+}
+
+.dados div{
+
+    margin-left: 100px;
+    margin-bottom: 20px;
+
+}
+
+#resposta{
+
+width: 80%;
+height: 60px;
+border: 1px solid black;
+margin: auto;
+background: url() lightblue;
+
+}
